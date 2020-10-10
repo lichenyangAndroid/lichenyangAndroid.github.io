@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Document</title>
+	<title>这是一个demo</title>
 	<style>
 		*{
 			margin:0;
